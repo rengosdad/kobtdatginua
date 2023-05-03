@@ -1,12 +1,9 @@
-  
-  #define CH1 30
-  #define CH2 31
-  #define CH3 32
-  #define CH4 33
-  #define CH5 34
-  #define CH6 35
-
-
+#define CH1 30
+#define CH2 31
+#define CH3 32
+#define CH4 33
+#define CH5 34
+#define CH6 35
 int ch1Value;
 int ch2Value;
 int ch3Value;
